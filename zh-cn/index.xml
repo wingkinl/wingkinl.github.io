@@ -1,0 +1,9 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Kenny&#39;s Homepage</title>
+        <link>https://ikendoit.com/zh-cn/</link>
+        <description>Kenny&#39;s Homepage</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><copyright>All rights reserved.</copyright>
+            <atom:link href="https://ikendoit.com/zh-cn/index.xml" rel="self" type="application/rss+xml" />
+        </channel>
+</rss>
