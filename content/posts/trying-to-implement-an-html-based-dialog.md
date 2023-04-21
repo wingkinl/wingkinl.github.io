@@ -2,6 +2,8 @@
 title: 'Trying to implement an HTML-based dialog'
 date: Sat, 18 Jun 2016 15:47:00 +0000
 draft: false
+toc:
+  enable: false
 tags: ['HTML', 'COM']
 categories: ["work"]
 ---

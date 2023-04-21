@@ -83,7 +83,7 @@ keywords = ["Kenny Liu"]
     title = "一个拥有超过 14 年经验的软件开发者"
     # subtitle shown in home page
     # 主页显示的网站副标题
-    subtitle = "主要使用 Visual Studio/C++ 在 Windows 上开发桌面程序"
+    subtitle = "主要使用 Visual Studio/C++ 在 Windows 上开发桌面应用"
     # whether to use typeit animation for subtitle
     # 是否为副标题显示打字机动画
     typeit = false
