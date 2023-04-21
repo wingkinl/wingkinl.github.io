@@ -32,7 +32,9 @@ Skills
 Side Project
 ====
 
-* An open-source EMF file viewer for analyzing metafile records. [Github](https://github.com/wingkinl/EMFExplorer/)
+* EMFExplorer: An open-source EMF file viewer for analyzing metafile records. [Github](https://github.com/wingkinl/EMFExplorer/)
+
+{{< image src="https://github.com/wingkinl/EMFExplorer/blob/main/Demo.gif?raw=true" caption="EMFExplorer" width="1013" height="614">}}
 
 Education
 ====
