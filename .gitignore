@@ -4,6 +4,7 @@
 /resources/_gen/
 /assets/jsconfig.json
 hugo_stats.json
+/--disableFastRender/
 
 # Temporary lock file while building
 /.hugo_build.lock
