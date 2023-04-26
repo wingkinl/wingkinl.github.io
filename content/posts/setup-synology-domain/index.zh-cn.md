@@ -184,6 +184,8 @@ HTTPS 端口：
 
 然后就可以在外网（无论是否支持 IPv6）通过 https://web.example.com:8443 来访问群晖上的虚拟服务器了。如果确定外网环境支持 IPv6，就访问 https://webv6.example.com:8443
 
+因为 IPv6 地址会变，这种方法还需要设置 DDNS。
+
 ##### 速度测试
 
 经过实测，在支持 IPv6 的外网访问可以达到宽带的带宽上限，通过 Cloudflare 代理的速度则比较慢。
