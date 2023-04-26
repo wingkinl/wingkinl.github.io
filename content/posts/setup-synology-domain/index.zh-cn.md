@@ -1,7 +1,7 @@
 ---
 title: "在内网和外网使用域名无端口访问群晖及内网其他设备/服务"
 date: 2023-04-26T15:44:05+08:00
-tags: ["群晖", "IPv6", "OpenWrt"]
+tags: ["群晖", "IPv6", "OpenWrt", "frp", "Zerotier", "Cloudflare"]
 categories: ['life']
 lightgallery: true
 featuredImagePreview: "nas_portal.png"
@@ -133,7 +133,7 @@ Zerotier 的速度挺好的，对于 30m 的上传带宽来说基本上是满速
 
 在 OpenWrt 安装 lucky 后，打开 stun 穿透，会得到一个 IP:端口 的公网可用地址。
 
-速度非常快，可以达到满速，可惜端口不是自己决定的。
+速度非常快，可以达到满速，可惜端口号不能自己决定。
 
 项目地址：[https://github.com/gdy666/lucky](https://github.com/gdy666/lucky)
 
