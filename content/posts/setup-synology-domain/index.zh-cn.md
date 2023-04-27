@@ -8,7 +8,7 @@ featuredImagePreview: "nas_portal.png"
 draft: false
 ---
 
-## 目标
+## 目的
 
 域名肯定是比 IP 地址好记的，如果加上端口号那就更显得累赘。为了在内网和外网都使用域名访问内网的设备，并且尽量不需要端口号，我折腾了一下各种方法。
 
@@ -59,7 +59,7 @@ draft: false
 
 还可以顺便在上方的静态地址分配设置 nas 的固定 IP 地址。
 
-{{< image src="dns_hijack.png" caption="自定义挟持域名" width="927">}}
+{{< image src="dns.png" caption="自定义挟持域名" width="927">}}
 
 ### 奇特的方法
 
@@ -194,4 +194,4 @@ HTTPS 端口：
 
 ## 总结
 
-目前来看，在没有公网 IP 地址的情况下，能实现在外网访问无端口号的方式有 frp、zerotier、cloudflared。比较理想的可能还是 cloudflared 了。
+目前来看，在没有公网 IP 地址的情况下，能实现在外网访问且无端口号的方式有 frp、zerotier、cloudflared。如果要求安全，zerotier可能比较适合，但在外网使用也需要客户端。如果需要让别人无需客户端也能访问内网的服务，比较理想的可能还是 cloudflared 了。
