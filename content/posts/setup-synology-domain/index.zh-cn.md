@@ -141,7 +141,7 @@ Zerotier 的速度挺好的，对于 30m 的上传带宽来说基本上是满速
 
 cloudflared 的项目地址：[https://github.com/cloudflare/cloudflared](https://github.com/cloudflare/cloudflared)
 
-速度也还不错，从一开始的500KB/s慢慢爬升到1700KB/s。而且可以创建很多域名，并且绑定端口号，访问的时候是不需要端口号的。
+速度也还不错，从一开始的500KB/s慢慢爬升到1700KB/s。而且可以创建很多域名，并且可以绑定端口号（当然也可以不设置端口号），访问的时候是不需要端口号的。
 
 {{< image src="cloudflare_tunnel_speed.png" caption="cloudflared 的下载测试" width="499">}}
 
@@ -188,7 +188,7 @@ HTTPS 端口：
 
 ##### 速度测试
 
-经过实测，在支持 IPv6 的外网访问可以达到宽带的带宽上限，通过 Cloudflare 代理的速度则比较慢。
+经过实测，在支持 IPv6 的外网访问可以达到宽带的带宽上限，通过 Cloudflare DNS 代理的速度则比较不稳定，但总体来说比 Cloudflare 隧道还是要快，有时候还可以满速。Cloudflare 隧道的方式我试过不同时间访问，速度都不是很理想。
 
 家里的宽带是电信 300m下载，30m上传。直连 IPv6 的时候基本上可以达到 4MB/s 的速度，也就是满速了。
 
