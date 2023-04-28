@@ -1,3 +1,3 @@
 ---
-title: "life"
+title: "Life"
 ---
