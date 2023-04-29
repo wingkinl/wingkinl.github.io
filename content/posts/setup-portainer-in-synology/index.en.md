@@ -1,7 +1,7 @@
 ---
-title: "Setup Portainer in Synology with a web portal and custom domain"
+title: "Setting up Portainer in Synology with a web portal and custom domain"
 date: 2023-04-28T15:49:38+08:00
-tags: ['synology', 'docker', 'portainer']
+tags: ['Synology', 'Docker', 'Portainer']
 categories: ["life"]
 draft: false
 ---
@@ -24,7 +24,7 @@ docker create --name=portainer --privileged --restart=always -v /var/run/docker.
 
 ## Enable web portal
 
-On Docker app, find the portainer container, then check **Enable web protal via Web Station**
+On Docker app, find the portainer container, then check **Enable web portal via Web Station**
 
 Add port **9443** for HTTPS, then hit **Save**.
 
