@@ -16,7 +16,7 @@ https://app.zerossl.com/develope
 
 ## Create a scheduled task to run a script that auto renew the certificate
 
-## Prepare the script and folder
+### Prepare the script and folder
 
 Create a folder **/volume1/docker/acme**
 
@@ -76,7 +76,7 @@ docker stop acme.sh
 echo ">>>>>>> Ken: #### End of my SSL update script ####"
 ```
 
-For information about **SYNO_DID** deploying through **HTTPS**, check this:
+For information about **SYNO_DID** and deploying through **HTTPS**, check this:
 
 https://github.com/acmesh-official/acme.sh/wiki/Synology-NAS-Guide#deploy-the-default-certificate
 
