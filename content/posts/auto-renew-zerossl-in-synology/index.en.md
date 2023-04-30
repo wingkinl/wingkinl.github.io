@@ -1,16 +1,16 @@
 ---
-title: "Auto Renew ZeroSSL in Synology"
+title: "Auto Renew ZeroSSL through acme.sh in Synology"
 date: 2023-04-30T00:02:02+08:00
 categories: ['life']
 tags: ['Synology', 'SSL', 'HTTPS', 'ZeroSSL', 'Certificate']
 draft: false
 ---
 
-## Register a ZeroSSL account and generate an EAB credential
+## Register a ZeroSSL account and generate EAB credentials
 
-Here's the link to create an EAB:
+Here's the link to create EAB credentials:
 
-https://app.zerossl.com/develope
+[https://app.zerossl.com/developer](https://app.zerossl.com/developer)
 
 ![ZeroSSL EAB](ZeroSSL_EAB.webp)
 
@@ -20,7 +20,7 @@ https://app.zerossl.com/develope
 
 Create a folder **/volume1/docker/acme**
 
-Put this script on the folder and name the script file as **my_update_ssl.sh**.
+Put this script in the folder and name the script file as **my_update_ssl.sh**.
 
 Note, I am using **5001** as **HTTPS** port for my DSM, you may change it or remove it if you use **HTTP** instead.
 
@@ -96,7 +96,7 @@ bash /volume1/docker/acme/my_update_ssl.sh >>/volume1/docker/acme/log_acme/log.t
 
 A note for the meaning:
 
-it run the script, then redirect the output the the log.txt.
+it run the script, then redirect the output to the log.txt.
 
 > That part is written to stderr, use 2> to redirect it. For example:
 >
