@@ -3,6 +3,7 @@ title: "Using key-based authentication for SSH"
 date: 2023-04-30T10:22:15+08:00
 categories: ['life']
 tags: ['SSH']
+featuredImagePreview: "upload_key_to_dsm.png"
 draft: false
 ---
 

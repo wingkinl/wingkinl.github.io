@@ -3,6 +3,7 @@ title: "Setting up Portainer in Synology with a web portal and custom domain"
 date: 2023-04-28T15:49:38+08:00
 tags: ['Synology', 'Docker', 'Portainer']
 categories: ["life"]
+featuredImage: "portainer.png"
 draft: false
 ---
 
@@ -30,10 +31,10 @@ Add port **9443** for HTTPS, then hit **Save**.
 
 DSM will prompt to configure the web portal settings in Web Station.
 
-![Enable web portal](web_portal.png)
+{{< image src="web_portal.png" caption="Create web portal" width="100%">}}
 
 Enter hostname for the web portal, then hit **Create**.
 
-![Custom domain](custom_web_portal_domain.png)
+{{< image src="custom_web_portal_domain.png" caption="Configure web portal" width="100%">}}
 
 Finally, start the container on Docker app and it's good to go.

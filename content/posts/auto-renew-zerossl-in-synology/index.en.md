@@ -3,6 +3,7 @@ title: "Auto renew SSL certificate with ZeroSSL through acme.sh in Synology"
 date: 2023-04-30T00:02:02+08:00
 categories: ['life']
 tags: ['Synology', 'SSL', 'HTTPS', 'ZeroSSL', 'Certificate', 'SSH']
+featuredImage: "docker_files.png"
 draft: false
 ---
 

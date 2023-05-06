@@ -3,6 +3,7 @@ title: "在群晖安装 Portainer 并设置域名访问"
 date: 2023-04-28T15:49:38+08:00
 tags: ['群晖', 'Docker', 'Portainer']
 categories: ["life"]
+featuredImage: "portainer.png"
 draft: false
 ---
 
@@ -28,8 +29,8 @@ docker create --name=portainer --privileged --restart=always -v /var/run/docker.
 
 添加端口，指定 **9443** 为 HTTPS
 
-![设置网页门户](web_portal_cn.png)
+{{< image src="web_portal.png" caption="设置网页门户" width="100%">}}
 
 然后输入域名即可
 
-![定义域名](custom_web_portal_domain_cn.png)
+{{< image src="custom_web_portal_domain.png" caption="定义域名" width="100%">}}
