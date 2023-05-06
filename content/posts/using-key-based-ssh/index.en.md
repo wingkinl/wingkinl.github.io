@@ -3,7 +3,7 @@ title: "Using key-based authentication for SSH"
 date: 2023-04-30T10:22:15+08:00
 categories: ['life']
 tags: ['SSH']
-featuredImagePreview: "upload_key_to_dsm.png"
+featuredImage: "ssh_key.png"
 draft: false
 ---
 
@@ -77,7 +77,9 @@ ssh-add $env:USERPROFILE\.ssh\id_rsa_test
 1. Sign in to DSM as an administrator.
 2. Go to DSM **File Station** > **home**.
 3. Create an sub-folder named **.ssh**.
-4. Upload the public key **id_rsa.pub** to the **.ssh** folder.![3.png](upload_key_to_dsm.png)
+4. Upload the public key **id_rsa.pub** to the **.ssh** folder.
+
+{{<image src="upload_key_to_dsm.png" width="100%">}}
 
 For more details, see:
 

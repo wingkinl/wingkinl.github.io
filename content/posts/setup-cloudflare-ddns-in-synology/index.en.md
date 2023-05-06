@@ -3,7 +3,7 @@ title: "Setting up Cloudflare DDNS in Synology"
 date: 2023-04-29T20:47:32+08:00
 categories: ['life']
 tags: ['Synology', 'Cloudflare', 'Docker']
-featuredImage: "featuredImage.png"
+featuredImage: "cf_ddns.jpg"
 draft: false
 ---
 
@@ -77,6 +77,10 @@ Make sure it has **DNS:Edit** permission.
 More detailed explanation can be found here:
 
 https://github.com/timothymiller/cloudflare-ddns#-example-
+
+The folder should look like this:
+
+{{<image src="docker_files.png" width="100%">}}
 
 ## Run the docker
 
