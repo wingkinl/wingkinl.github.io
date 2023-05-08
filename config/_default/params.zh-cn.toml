@@ -78,6 +78,7 @@ keywords = ["Kenny Liu"]
     # URL of avatar shown in home page
     # 主页显示头像的 URL
     avatarURL = "/images/avatar.png"
+    avatarTitle = "关于我"
     # title shown in home page (HTML format is supported)
     # 主页显示的网站标题 (支持 HTML 格式)
     title = "一个拥有超过 14 年经验的软件开发者"
