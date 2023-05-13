@@ -1,0 +1,54 @@
+<style>
+  .home-profile {
+    padding: 0 0 .5rem;
+    text-align: center;
+  }
+
+  .home-profile .home-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+    margin: 0;
+    padding: .5rem;
+  }
+
+  .home-profile .home-subtitle {
+    font-size: 1rem;
+    font-weight: normal;
+    margin: 0;
+    padding: .5rem;
+  }
+
+  .home-profile .links {
+    padding: .5rem;
+    font-size: 1.5rem;
+  }
+
+  .home-profile .home-avatar {
+    padding: .5rem;
+  }
+
+  .home-profile .home-avatar img {
+    display: inline-block;
+    margin: 0 auto;
+    -webkit-border-radius: 100%;
+    -moz-border-radius: 100%;
+    border-radius: 100%;
+    -webkit-box-shadow: 0 0 0 .3618em rgba(0, 0, 0, .05);
+    box-shadow: 0 0 0 .3618em rgba(0, 0, 0, .05);
+    -webkit-transition: all 0.4s ease;
+    -moz-transition: all 0.4s ease;
+    -o-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+
+    &:hover {
+      position: relative;
+      -webkit-transform: translateY(-.75rem);
+      -moz-transform: translateY(-.75rem);
+      -ms-transform: translateY(-.75rem);
+      -o-transform: translateY(-.75rem);
+      transform: translateY(-.75rem);
+    }
+  }
+</style>
+
+{{- partial "home/profile.html" . -}}

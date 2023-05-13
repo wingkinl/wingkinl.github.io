@@ -8,8 +8,8 @@ comment:
   enable: false
 ---
 
-> A **Software Developer** with **14+** years of experience.
->
+{{< aboutAvatar >}}
+
 > ***Core skills:***
 >
 > C/C++, MFC, Visual Studio, STL, GDI, GDI+, assembly, Python, SWIG, Objective C, Git/SVN, Jira 
