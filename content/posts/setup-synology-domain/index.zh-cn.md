@@ -5,6 +5,7 @@ tags: ["群晖", "IPv6", "OpenWrt", "frp", "Zerotier", "Cloudflare"]
 categories: ['life']
 lightgallery: true
 featuredImagePreview: "nas_portal.png"
+images: ["nas_portal.png"]
 draft: false
 ---
 

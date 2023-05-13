@@ -7,6 +7,7 @@ toc:
 tags: ['C++','MFC']
 categories: ["work"]
 featuredImage: "quickfind.gif"
+images: ["quickfind.gif"]
 lightgallery: true
 ---
 

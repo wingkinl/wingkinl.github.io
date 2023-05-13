@@ -3,8 +3,9 @@ title: "Auto renew SSL certificate with ZeroSSL through acme.sh in Synology"
 date: 2023-04-30T00:02:02+08:00
 categories: ['life']
 tags: ['Synology', 'SSL', 'HTTPS', 'ZeroSSL', 'Certificate', 'SSH']
-featuredImage: "docker_files.png"
+featuredImage: "cover.jpg"
 draft: false
+lightGallery: true
 ---
 
 ## Register a ZeroSSL account and generate EAB credentials
@@ -22,6 +23,8 @@ Here's the link to create EAB credentials:
 Create a folder **/volume1/docker/acme**
 
 Put this script in the folder and name the script file as **my_update_ssl.sh**.
+
+![Script file](docker_files.png)
 
 Note:
 

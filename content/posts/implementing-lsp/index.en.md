@@ -5,6 +5,7 @@ draft: false
 tags: ['LSP', 'C++']
 categories: ["work"]
 featuredImage: "lsp-languages-editors.png"
+images: ["lsp-languages-editors.png"]
 ---
 
 ## What is LSP

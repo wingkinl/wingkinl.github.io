@@ -5,6 +5,7 @@ draft: false
 tags: ['C++']
 categories: ["work"]
 featuredImage: "tabflickerkeyframes.gif"
+images: ["tabflickerkeyframes.gif"]
 lightgallery: true
 ---
 

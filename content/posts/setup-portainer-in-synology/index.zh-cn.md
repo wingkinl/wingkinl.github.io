@@ -3,7 +3,7 @@ title: "在群晖安装 Portainer 并设置域名访问"
 date: 2023-04-28T15:49:38+08:00
 tags: ['群晖', 'Docker', 'Portainer']
 categories: ["life"]
-featuredImage: "portainer.png"
+featuredImage: "cover.png"
 draft: false
 ---
 

@@ -5,6 +5,7 @@ tags: ['OpenWrt', 'IPv6', 'IPv4']
 categories: ['life']
 lightgallery: true
 featuredImagePreview: "result.png"
+images: ["result.png"]
 draft: false
 ---
 
