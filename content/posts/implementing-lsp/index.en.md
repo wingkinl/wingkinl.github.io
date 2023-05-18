@@ -4,8 +4,7 @@ date: Mon, 14 Sep 2020 15:40:33 +0000
 draft: false
 tags: ['LSP', 'C++']
 categories: ["work"]
-featuredImage: "lsp-languages-editors.png"
-images: ["lsp-languages-editors.png"]
+featuredImage: "lsp-cover.png"
 ---
 
 ## What is LSP

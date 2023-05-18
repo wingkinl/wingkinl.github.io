@@ -6,8 +6,7 @@ toc:
   enable: false
 tags: ['C++','MFC']
 categories: ["work"]
-featuredImage: "quickfind.gif"
-images: ["quickfind.gif"]
+featuredImage: "quickfind_cover.gif"
 lightgallery: true
 ---
 

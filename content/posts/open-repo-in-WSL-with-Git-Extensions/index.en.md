@@ -4,8 +4,7 @@ date: 2023-05-17T14:04:24+08:00
 draft: false
 categories: ['life']
 tags: ['Git', 'WSL', 'OpenWrt']
-featuredImage: "WSL-Git-Extensions.png"
-images: ["WSL-Git-Extensions.png"]
+featuredImage: "WSL-Git-Extensions_cover.png"
 toc: false
 ---
 

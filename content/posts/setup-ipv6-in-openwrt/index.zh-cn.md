@@ -4,8 +4,7 @@ date: 2023-04-25T15:44:17+08:00
 tags: ['OpenWrt', 'IPv6', 'IPv4']
 categories: ['life']
 lightgallery: true
-featuredImagePreview: "result.png"
-images: ["result.png"]
+featuredImagePreview: "result_cover.png"
 draft: false
 ---
 

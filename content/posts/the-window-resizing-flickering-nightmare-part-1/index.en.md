@@ -4,8 +4,7 @@ date: Thu, 14 Jun 2018 10:30:35 +0000
 draft: false
 tags: ['C++']
 categories: ["work"]
-featuredImage: "tabflickerkeyframes.gif"
-images: ["tabflickerkeyframes.gif"]
+featuredImage: "tabflickerkeyframes_cover.gif"
 lightgallery: true
 ---
 

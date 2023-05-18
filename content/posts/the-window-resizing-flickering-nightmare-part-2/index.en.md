@@ -6,8 +6,7 @@ toc:
   enable: false
 tags: ['C++']
 categories: ["work"]
-featuredImage: "resizewindowleftedge2.gif"
-images: ["resizewindowleftedge2.gif"]
+featuredImage: "resizewindowleftedge2_cover.gif"
 ---
 
 We have a expand/shrink button on this particular dialog when users click on it, it expands or shrinks the dialog, but the tab control "remains" at the original position relative to the screen coordinates. ![ResizeLeftEdge.gif](resizeleftedge.gif)

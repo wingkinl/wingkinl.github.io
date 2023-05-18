@@ -4,8 +4,7 @@ date: 2023-04-26T15:44:05+08:00
 tags: ["群晖", "IPv6", "OpenWrt", "frp", "ZeroTier", "Cloudflare"]
 categories: ['life']
 lightgallery: true
-featuredImagePreview: "nas_portal.png"
-images: ["nas_portal.png"]
+featuredImagePreview: "nas_portal_cover.png"
 draft: false
 ---
 

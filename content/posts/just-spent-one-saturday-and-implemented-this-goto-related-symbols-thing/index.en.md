@@ -6,8 +6,7 @@ toc:
   enable: false
 tags: ['C++']
 categories: ["work"]
-featuredImage: "gotorelated.gif"
-images: ["gotorelated.gif"]
+featuredImage: "gotorelated_cover.gif"
 ---
 
 I've always wanted a feature like this in our built-in code editor, it can make understanding code structure a simpler job. The recorded gif above is pretty straightforward and tells everything without me saying too much to explain why it is so useful.
