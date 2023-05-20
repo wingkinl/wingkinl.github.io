@@ -1,7 +1,7 @@
 ---
 title: "Setting up Cloudflare DDNS in Synology"
 date: 2023-04-29T20:47:32+08:00
-categories: ['life']
+categories: ['tech']
 tags: ['Synology', 'Cloudflare', 'Docker']
 featuredImage: "cover.jpg"
 draft: false

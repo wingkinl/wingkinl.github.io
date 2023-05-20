@@ -2,7 +2,7 @@
 title: "Recover deleted ZeroTier member node"
 date: 2023-05-15T10:18:02+08:00
 tags: ['ZeroTier', 'Shortcuts']
-categories: ['life']
+categories: ['tech']
 featuredImage: "images/ZeroTier.png"
 images: ["images/ZeroTier.png"]
 header:

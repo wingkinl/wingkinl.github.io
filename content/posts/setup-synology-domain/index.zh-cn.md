@@ -2,7 +2,7 @@
 title: "在内网和外网使用域名无端口访问群晖及内网其他设备/服务"
 date: 2023-04-26T15:44:05+08:00
 tags: ["群晖", "IPv6", "OpenWrt", "frp", "ZeroTier", "Cloudflare"]
-categories: ['life']
+categories: ['tech']
 lightgallery: true
 featuredImagePreview: "nas_portal_cover.png"
 draft: false

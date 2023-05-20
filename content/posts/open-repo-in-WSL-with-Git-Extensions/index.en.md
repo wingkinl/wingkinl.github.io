@@ -2,7 +2,7 @@
 title: "Open repo in WSL with Git Extensions"
 date: 2023-05-17T14:04:24+08:00
 draft: false
-categories: ['life']
+categories: ['tech']
 tags: ['Git', 'WSL', 'OpenWrt']
 featuredImage: "WSL-Git-Extensions_cover.png"
 toc: false

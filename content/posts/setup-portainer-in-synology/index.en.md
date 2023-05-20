@@ -2,7 +2,7 @@
 title: "Setting up Portainer in Synology with a web portal and custom domain"
 date: 2023-04-28T15:49:38+08:00
 tags: ['Synology', 'Docker', 'Portainer']
-categories: ["life"]
+categories: ["tech"]
 featuredImage: "cover.png"
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 title: "为 360T7 编译 ImmortalWrt 固件"
 date: 2023-05-17T10:11:27+08:00
-categories: ['life']
+categories: ['tech']
 tags: ['ImmortalWrt', 'OpenWrt', 'IPv6', 'WSL']
 featuredImagePreview: "images/ImmortalWrt.png"
 images: ["images/ImmortalWrt.png"]

@@ -2,7 +2,7 @@
 title: "在 OpenWrt 中设置获取公网 IPv6"
 date: 2023-04-25T15:44:17+08:00
 tags: ['OpenWrt', 'IPv6', 'IPv4']
-categories: ['life']
+categories: ['tech']
 lightgallery: true
 featuredImagePreview: "result_cover.png"
 draft: false
