@@ -61,7 +61,7 @@ IPv6 要求服务器端和客户端都支持 IPv6 环境，否则无法访问。
 
 先上最终配置成功后的接口总览：
 
-{{< image src="result.png" caption="最终结果" width="630" height="758">}}
+{{< image src="result_cover.png" caption="最终结果" width="630" height="758">}}
 
 ### 配置 LAN 接口
 

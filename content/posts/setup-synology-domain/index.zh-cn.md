@@ -23,7 +23,7 @@ draft: false
 * 把 **启用 HSTS 会强制浏览器使用安全连接** 勾选上
 * 把 **网页服务** 下的 **自动将 DSM 桌面的 HTTP 连接重定向到 HTTPS** 勾选上
 
-{{< image src="nas_portal.png" caption="最终效果" width="743">}}
+{{< image src="nas_portal_cover.png" caption="最终效果" width="743">}}
 
 ### 群晖的应用程序入口
 
